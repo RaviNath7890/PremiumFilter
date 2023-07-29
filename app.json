@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/harshil8981/PremiumFilter",
-    "repository": "https://github.com/harshil8981/PremiumFilter",
+    "repository": "https://github.com/RaviNath7890/PremiumFilter",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
